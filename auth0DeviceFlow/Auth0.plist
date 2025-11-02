@@ -6,7 +6,7 @@
 	<string>refresh_token</string>
 	<key>grant_type</key>
 	<string>urn:ietf:params:oauth:grant-type:device_code</string>
-	<key>ClientID</key>
+	<key>ClientId</key>
 	<string>vyVqucWvTZgXy0cOH1xLGjFnfUnIjK9t</string>
 	<key>Domain</key>
 	<string>ali-demo.cic-demo-platform.auth0app.com</string>
